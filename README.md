@@ -6,9 +6,7 @@ It calculates each student's marks across several subjects, computes totals, ave
 The program prints a well-structured report and also saves the output to a file inside:
 
 
----
-
-## 📌 Features
+## Features
 - Calculates total marks for each student  
 - Assigns grades (A–F) based on total score  
 - Displays a formatted performance table  
@@ -16,22 +14,19 @@ The program prints a well-structured report and also saves the output to a file 
 - Shows grade distribution (number of A's, B's, C's, D's, and F's)  
 - Saves the final report to a text file  
 
----
 
-## 📂 Output Location
+## Output Location
 The generated report is automatically saved in:
 
 
----
-
-## 🛠️ Technologies Used
+## Technologies Used
 - Java  
 - Arrays  
 - Loops  
 - Formatted printing  
 - FileWriter (for saving report output)
 
----
+
 
 ## ▶️ How to Run the Program
 1. Clone or download the repository.  
