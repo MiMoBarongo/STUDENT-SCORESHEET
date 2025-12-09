@@ -28,7 +28,7 @@ The generated report is automatically saved in:
 
 
 
-## ▶️ How to Run the Program
+##  How to Run the Program
 1. Clone or download the repository.  
 2. Open the project in your preferred Java IDE (VS Code, IntelliJ, Eclipse).  
 3. Compile and run the program:
